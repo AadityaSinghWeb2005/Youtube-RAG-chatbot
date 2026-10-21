@@ -1,12 +1,10 @@
-
 streamlit
 langchain
 langchain-community
+langchain-core
 langchain-text-splitters
 langchain-chroma
-langchain-core
-youtube-transcript-api
 langchain-ollama
-ollama
+langchain-openai
+youtube-transcript-api
 python-dotenv
-requests
